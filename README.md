@@ -13,7 +13,7 @@ For cartoon image results:
 ![image](https://user-images.githubusercontent.com/92786679/141968652-6b977a46-9e03-41d5-90e0-57a90168c2a9.png)
 ![image](https://user-images.githubusercontent.com/92786679/141968685-6a5b6b8d-1cdb-4651-9661-e6058a431863.png)
 
-For real-life image results:
+For real-life photo results:
 
 ![Helikopter](https://user-images.githubusercontent.com/92786679/141968286-afd74f2e-161f-4761-b015-963cd4b55fb0.jpeg)
 ![image](https://user-images.githubusercontent.com/92786679/141968873-84c6ccb4-f14d-42b8-8df6-254c16e1210b.png)
