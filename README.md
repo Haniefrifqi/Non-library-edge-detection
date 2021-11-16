@@ -3,6 +3,10 @@ This repository shows you how to make (manually) edge detection with Robert meth
 
 I already explain step-by-step method that I used on matlab file above
 
+You can use english version if you aren't from Indonesia
+
+Kamu bisa pake versi Indonesia kalo kamu orang Indonesia
+
 I use two kind of image: cartoon and real-life photo
 
 For cartoon image results:
