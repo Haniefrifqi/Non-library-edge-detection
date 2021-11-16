@@ -10,8 +10,8 @@ For cartoon image results:
 ![Metabee](https://user-images.githubusercontent.com/92786679/141968285-591b20b9-54ca-43fa-baff-937955971167.jpg)
 ![image](https://user-images.githubusercontent.com/92786679/141968543-ad79f83e-1ebd-4aa4-a4f2-05fc18a17bd2.png)
 ![image](https://user-images.githubusercontent.com/92786679/141968592-8f822455-3dd8-4374-9ed3-abd05f08704d.png)
-![image](https://user-images.githubusercontent.com/92786679/141968685-6a5b6b8d-1cdb-4651-9661-e6058a431863.png)
 ![image](https://user-images.githubusercontent.com/92786679/141968652-6b977a46-9e03-41d5-90e0-57a90168c2a9.png)
+![image](https://user-images.githubusercontent.com/92786679/141968685-6a5b6b8d-1cdb-4651-9661-e6058a431863.png)
 
 For real-life image results:
 
