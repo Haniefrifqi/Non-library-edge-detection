@@ -1,7 +1,10 @@
 # Non-library-edge-detection
 This repository shows you how to make (manually) edge detection with Robert method, Sobel method, Prewitt method, and Canny method, without any single library
+
 I already explain step-by-step method that I used on matlab file above
+
 I use two kind of image: cartoon and real-life photo
+
 For cartoon image results:
 
 ![Metabee](https://user-images.githubusercontent.com/92786679/141968285-591b20b9-54ca-43fa-baff-937955971167.jpg)
